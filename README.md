@@ -3,7 +3,7 @@
 > Cinco fotografías y ninguna pista visible: con ExifTool, sus metadatos revelan **dónde y cuándo** se tomó cada una, y juntas reconstruyen el recorrido de una tarde. Las "migas de pan" que dan nombre al reto.
 
 ![Categoría](https://img.shields.io/badge/categor%C3%ADa-OSINT-purple)
-![Herramienta](https://img.shields.io/badge/herramienta-ExifTool-orange)
+![Herramienta](https://img.shields.io/badge/herramienta-ExifTool-E8710A)
 ![Estado](https://img.shields.io/badge/reto-completado-brightgreen)
 
 ## Contexto
